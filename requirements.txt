@@ -1,0 +1,3 @@
+# Dependências do projeto ms-email-pdf-extractor
+# Para conexão com Gmail via IMAP
+# Não são necessárias dependências externas - usando apenas bibliotecas padrão do Python
